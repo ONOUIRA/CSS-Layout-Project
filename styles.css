@@ -1,0 +1,148 @@
+
+  /* Style générique de la navbar */
+
+  .navbar {
+    width: 80%; 
+    word-spacing: 7px;
+  }
+  .flex-container {
+    display: flex;
+  }
+
+  .box2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #00b39b;
+    text-decoration: none;
+     }
+     .box6{
+      font-size: 16px;
+      font-weight: 400;
+      color: #ababab;
+      text-decoration: none;
+      
+       }
+.forsection{
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 3.75rem auto 2.5rem;
+    color: #fff;
+    font-family: Work Sans, Arial, sans-serif;
+    max-width: 1015px;
+    padding: 0 20px;
+    position: relative;
+}
+  .for1{
+    background-color: #00ccb1;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 345px;
+}
+.for3{
+  background-color: #1b2734;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 2em 2em 0;
+  justify-content: space-between;
+  height: 345px;
+}
+#main3{
+  box-sizing: border-box;
+}
+.forsection img {
+  width: 25px;
+  height: auto;}
+
+.for1 #for1title{
+  font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+    font-family: Work Sans, Arial, sans-serif;
+}
+
+.for3 #for3title{
+  font-size: 1.625em;
+  font-weight: 400;
+  color: #fff;
+  margin: 0.3em 0;
+  font-family: Work Sans, Arial, sans-serif;
+}
+#main1{
+box-sizing: border-box;
+}
+.for2{
+  background-color: #3d83df;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: space-between;
+    height: 345px;
+}
+
+#select1{
+  box-sizing: border-box;
+  display: block;
+}
+#main2{
+  box-sizing: border-box;
+  display: block;
+
+}
+.titre1{
+text-align: center;
+color:#00ccb1;
+}
+.paragraphe1{
+  width: 30%;
+  word-spacing: 3px;
+  font-family: 'Roboto Slab';
+  font-size: 18px;
+  color: grey;
+}
+.paragraphe2{
+  float: right;
+  width: 30%;
+  word-spacing: 3px;
+  font-family: 'Roboto Slab';
+  font-size: 18px;
+  color: grey;
+}  
+.introduction{
+  display: flex;
+  justify-content: space-around;
+}
+.section3{
+  display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#section3title{
+  font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+}
+#section3logos{
+  display: flex;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+  
